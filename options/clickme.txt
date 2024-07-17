@@ -1,0 +1,1 @@
+uncheck create filename folder under selected folder when extracting
